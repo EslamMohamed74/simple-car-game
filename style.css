@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+    overflow-y: hidden;
+}
+
+
+#road{
+    height: 10000px;
+    width: 1000px;
+    background: url('road.jpg');
+    position: relative;
+    margin-left:20%;
+    background-repeat: repeat-y;
+    bottom: 3245px;
+}
+#car{
+    position: absolute;
+    left: 400px;
+    top: 3800px;
+    
+}
+
